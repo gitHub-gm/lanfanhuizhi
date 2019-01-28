@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebe675df-c69b-4102-b901-ff4b85078056" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/school/logo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/school/logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/school/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/school/shouye_big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mapstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/soluImg1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dev1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/job/job-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/job/job-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,34 +30,19 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="64" column="159" lean-forward="true" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="159" />
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects.html">
+      <file leaf-file-name="pricing.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2014">
-              <caret line="62" column="33" lean-forward="true" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+            <state relative-caret-position="513">
+              <caret line="137" column="61" selection-start-line="137" selection-start-column="61" selection-end-line="137" selection-end-column="61" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="service1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/service1.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="logo-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/school/logo-1.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="logo-2.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/school/logo-2.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -60,6 +50,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>SERVICES</find>
+      <find>createMap</find>
+      <find>BMap_mask</find>
+      <find>swiper-container</find>
+      <find>contact_map</find>
+      <find>mask</find>
+      <find>about</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -68,8 +64,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/../../yigu/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/projects.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/pricing.html" />
       </list>
     </option>
   </component>
@@ -93,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,22 +100,10 @@
               <item name="lanfanhuizhi" type="b2602c69:ProjectViewProjectNode" />
               <item name="lanfanhuizhi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lanfanhuizhi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lanfanhuizhi" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lanfanhuizhi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lanfanhuizhi" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="school" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,14 +112,14 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\蓝方汇智\lanfanhuizhi\img\school" />
-      <recent name="C:\Users\Administrator\Desktop\1\cpts_1575_czq\img" />
-      <recent name="C:\Users\Administrator\Desktop\1" />
-      <recent name="C:\Users\Administrator\Desktop\1\cpts_1575_czq\img\works" />
-      <recent name="C:\Users\Administrator\Desktop\1\cpts_1575_czq\img\photos" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\1\cpts_1575_czq\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\蓝方汇智\lanfanhuizhi\img" />
+      <recent name="C:\Users\Administrator\Desktop\蓝方汇智\lanfanhuizhi\css" />
+      <recent name="C:\Users\Administrator\Desktop\蓝方汇智\lanfanhuizhi\img\job" />
+      <recent name="C:\Users\Administrator\Desktop\蓝方汇智\lanfanhuizhi\img\school" />
       <recent name="C:\Users\Administrator\Desktop\1\cpts_1575_czq\img" />
     </key>
   </component>
@@ -159,19 +147,22 @@
       <updated>1548299312265</updated>
       <workItem from="1548299314678" duration="9250000" />
       <workItem from="1548384424141" duration="8530000" />
+      <workItem from="1548635889962" duration="8882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17780000" />
+    <option name="totallyTimeSpent" value="26662000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="328" y="64" width="1110" height="782" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2166362" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17291667" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.09776833" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -182,9 +173,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,46 +184,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="87" column="25" lean-forward="true" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3000套网站模板免费拥有.url" />
     <entry file="file://$PROJECT_DIR$/说明.txt" />
     <entry file="file://$PROJECT_DIR$/img/photos/img3.jpg" />
     <entry file="file://$PROJECT_DIR$/img/photos/img2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/photos/img1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/team1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/about.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="64" column="159" lean-forward="true" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="159" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2014">
-          <caret line="62" column="33" lean-forward="true" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/service1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/school/logo-1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/school/shouye_big.jpg">
@@ -241,6 +194,208 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/img/school/logo-2.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/school/logo-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/dev1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/about.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/job/job-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/avatar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/img1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/glyphicons-halflings-white.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/glyphicons-halflings.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/dots.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg_direction_nav.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/nivo-bullets.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/php.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/plain.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/qiye.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/service1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/photos/img1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/other/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/other/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/other/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/job/banner_ico2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/job/banner_ico1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/school/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/team2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/slides/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/slides/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/team1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/team.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/service2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../yigu/css/bootsnav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../yigu/css/share.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../yigu/fonts/FontAwesome/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../yigu/plugin/swiper3/css/swiper.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../yigu/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../yigu/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="5" column="2005" selection-start-line="5" selection-start-column="2005" selection-end-line="5" selection-end-column="2005" />
+          <folding>
+            <element signature="e#45568#45768#2" expanded="true" />
+            <element signature="e#45890#46039#2" expanded="true" />
+            <element signature="e#46185#46331#2" expanded="true" />
+            <element signature="e#46757#46920#1" expanded="true" />
+            <element signature="e#55587#55830#2" expanded="true" />
+            <element signature="e#56556#56805#2" expanded="true" />
+            <element signature="e#81351#81538#2" expanded="true" />
+            <element signature="e#81584#81773#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../yigu/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="705" column="28" lean-forward="true" selection-start-line="705" selection-start-column="28" selection-end-line="705" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="604" column="52" lean-forward="true" selection-start-line="604" selection-start-column="52" selection-end-line="604" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mapstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1195">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/soluImg1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../yigu/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="189" column="9" lean-forward="true" selection-start-line="172" selection-end-line="189" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../yigu/images/soluImg1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532">
+          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="109" column="58" selection-start-line="109" selection-start-column="58" selection-end-line="109" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pricing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="137" column="61" selection-start-line="137" selection-start-column="61" selection-end-line="137" selection-end-column="61" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
