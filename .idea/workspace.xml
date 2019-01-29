@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebe675df-c69b-4102-b901-ff4b85078056" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/css/mapstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/soluImg1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/dev1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/job/job-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/job/job-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-    </list>
+    <list default="true" id="ebe675df-c69b-4102-b901-ff4b85078056" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -39,8 +26,8 @@
       <file leaf-file-name="pricing.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="137" column="61" selection-start-line="137" selection-start-column="61" selection-end-line="137" selection-end-column="61" />
+            <state relative-caret-position="247">
+              <caret line="123" column="42" selection-start-line="123" selection-start-column="42" selection-end-line="123" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -81,7 +68,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="328" />
     <option name="y" value="64" />
     <option name="width" value="1110" />
@@ -147,16 +134,15 @@
       <updated>1548299312265</updated>
       <workItem from="1548299314678" duration="9250000" />
       <workItem from="1548384424141" duration="8530000" />
-      <workItem from="1548635889962" duration="8882000" />
+      <workItem from="1548635889962" duration="9641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26662000" />
+    <option name="totallyTimeSpent" value="27421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17291667" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -392,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pricing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="137" column="61" selection-start-line="137" selection-start-column="61" selection-end-line="137" selection-end-column="61" />
+        <state relative-caret-position="247">
+          <caret line="123" column="42" selection-start-line="123" selection-start-column="42" selection-end-line="123" selection-end-column="42" />
         </state>
       </provider>
     </entry>
